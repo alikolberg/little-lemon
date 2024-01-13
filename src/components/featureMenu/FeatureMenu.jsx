@@ -1,5 +1,5 @@
 import salad from "../../assets/salad.jpg";
-import bruschetta1 from "../../assets//bruschetta1.jpg";
+import bruschetta1 from "../../assets/bruschetta1.jpg";
 import creme from "../../assets/creme.jpg";
 import "./FeatureMenu.css";
 import Card from "../card/Card";
